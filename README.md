@@ -14,7 +14,7 @@
   <a href="https://drive.google.com/drive/folders/1-E2NzbTjlX3QrUEwgyFyLrku0Nifd-_c" target="_blank">
     <img src="https://github.com/user-attachments/assets/58f454e2-f9eb-4cc5-90a3-c9a5321cd4c6" width="16px" alt="Resume"/> Resume
   </a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/esther-michelle-599105369/" target="_blank">
+  <a href="https://www.linkedin.com/in/esther-michelle/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16px" alt="LinkedIn"/> LinkedIn
   </a> &nbsp;|&nbsp;
   <a href="https://codeforces.com/profile/Esthermichelle" target="_blank">
