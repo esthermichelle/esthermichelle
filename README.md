@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Computer Engneering Student | Expected Graduation: 2029</strong>
+  <strong>Computer Engneering Student</strong>
 </p>
 
 <p align="center">
