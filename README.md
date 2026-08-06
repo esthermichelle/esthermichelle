@@ -27,4 +27,4 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/orcid.svg" width="16px" alt="ORCID"/> ORCID
   </a>
 </p>
-
+    <img src="profile.gif" >
